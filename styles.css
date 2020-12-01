@@ -1,0 +1,159 @@
+body {
+       height: 842px;
+       width: 750px;
+       margin-left: auto;
+       margin-right: auto;
+}
+
+.header{
+  background-image:url("bgimg.jpg");
+}
+.header p{
+  font-size: 50px;
+  margin-left:50px;
+  margin-top:50px;
+  color:white;
+  font-weight: bold;
+}
+
+
+.collegestudent{
+  font-size: 20px;
+  margin-left:50px;
+  /* margin-top:60px; */
+  color:white;
+  margin-top:-15px;
+  /* font-weight: bold; */
+}
+
+
+
+
+.work{
+  font-size: 20px;
+  font-weight: bold;
+  color:#272727;
+  margin-left:50px;
+  margin-top:35px;
+}
+
+.workdetails{
+  margin-left:50px;
+}
+
+
+
+
+.education{
+  font-size: 20px;
+  font-weight: bold;
+  color:#272727;
+  margin-left:10px;
+  margin-top:35px;
+}
+
+.educationdetails{
+  margin-left:10px;
+}
+
+
+
+
+.image {
+    position: absolute;
+    bottom: 715px; /* bottom space */
+    right: 20px; /* right space */
+}
+.image img {
+    display: block;
+    border-radius: 50%;
+    width:250px;
+    height:250px;
+    border: 4px solid white;
+}
+.right{
+  max-width: 310px;
+  background-color:#F36C4B;
+}
+
+
+
+.personalprofile{
+  margin-top: 70px;
+  margin-left:20px;
+  font-size: 23px;
+  font-weight: bold;
+  color:#272727;
+}
+
+
+.personalprofiledetail{
+  margin-left:20px;
+  color:#272727;
+  /* font-size: 25px; */
+font-size: 13px;
+}
+
+
+
+
+.contact{
+  margin-left:20px;
+  font-size: 23px;
+  font-weight: bold;
+  color:#272727;
+
+}
+
+
+.address{
+  margin-left:20px;
+  color:#272727;
+  font-size: 13px;
+}
+.website{
+  margin-left:20px;
+  color:#272727;
+  font-size: 13px;
+}
+.home{
+  margin-left:20px;
+  color:#272727;
+  font-size: 13px;
+}
+.mobile{
+margin-left:20px;
+color:#272727;
+font-size: 13px;
+}
+
+
+
+
+.championship{
+  /* margin-top: 100px; */
+  margin-left:20px;
+  font-size: 23px;
+  font-weight: bold;
+  color:#272727;
+}
+
+.championshipdetails{
+  margin-left:-20px;
+  color:#272727;
+  font-size: 13px;
+}
+
+
+.notableskills{
+  /* margin-top: 100px; */
+  margin-left:20px;
+  font-size: 23px;
+  font-weight: bold;
+  color:#272727;
+}
+.notableskillsdetails{
+  margin-left:-20px;
+  color:#272727;
+  font-size: 13px;
+}
