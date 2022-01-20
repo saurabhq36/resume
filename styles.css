@@ -1,4 +1,4 @@
-body {
+/* body {
        height: 842px;
        width: 750px;
        margin-left: auto;
@@ -20,10 +20,8 @@ body {
 .collegestudent{
   font-size: 20px;
   margin-left:50px;
-  /* margin-top:60px; */
   color:white;
   margin-top:-15px;
-  /* font-weight: bold; */
 }
 
 
@@ -61,8 +59,8 @@ body {
 
 .image {
     position: absolute;
-    bottom: 715px; /* bottom space */
-    right: 20px; /* right space */
+    bottom: 715px; 
+    right: 20px; 
 }
 .image img {
     display: block;
@@ -90,7 +88,6 @@ body {
 .personalprofiledetail{
   margin-left:20px;
   color:#272727;
-  /* font-size: 25px; */
 font-size: 13px;
 }
 
@@ -131,7 +128,6 @@ font-size: 13px;
 
 
 .championship{
-  /* margin-top: 100px; */
   margin-left:20px;
   font-size: 23px;
   font-weight: bold;
@@ -146,7 +142,6 @@ font-size: 13px;
 
 
 .notableskills{
-  /* margin-top: 100px; */
   margin-left:20px;
   font-size: 23px;
   font-weight: bold;
@@ -156,4 +151,4 @@ font-size: 13px;
   margin-left:-20px;
   color:#272727;
   font-size: 13px;
-}
+} */
